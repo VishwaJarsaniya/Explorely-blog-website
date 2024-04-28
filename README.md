@@ -1,6 +1,7 @@
-![Screenshot (394)](https://github.com/VishwaJarsaniya/Explorely_blogweb/assets/143692465/9992be22-336c-46b2-aad6-c4924c615acf)
-![Screenshot (395)](https://github.com/VishwaJarsaniya/Explorely_blogweb/assets/143692465/8f294776-f4aa-4c4a-9b36-6b95757cdaf8)
-![Screenshot (396)](https://github.com/VishwaJarsaniya/Explorely_blogweb/assets/143692465/b244eed1-1dce-4d4f-931d-eb5d917b15fa)
-![Screenshot (397)](https://github.com/VishwaJarsaniya/Explorely_blogweb/assets/143692465/8b78cb07-0f65-4163-96fb-b6438b4a19bd)
-![Screenshot (399)](https://github.com/VishwaJarsaniya/Explorely_blogweb/assets/143692465/b5ea4009-8976-44fa-a008-ee4e9510ec28)
-![Screenshot (400)](https://github.com/VishwaJarsaniya/Explorely_blogweb/assets/143692465/a581ebea-4d44-4f1c-9db9-5c1504491d95)
+website link:  https://explorely-blogweb.vercel.app/
+![Screenshot (401)](https://github.com/VishwaJarsaniya/Explorely_blogweb/assets/143692465/3e8b106a-27fc-48d3-b9a9-cbbb13f4f89a)
+![Screenshot (402)](https://github.com/VishwaJarsaniya/Explorely_blogweb/assets/143692465/bd0b420a-50cc-4555-90ef-3425653c1f26)
+![Screenshot (403)](https://github.com/VishwaJarsaniya/Explorely_blogweb/assets/143692465/c3ab199d-8f40-4cba-bcec-f19996efa09c)
+![Screenshot (404)](https://github.com/VishwaJarsaniya/Explorely_blogweb/assets/143692465/73f8a1a6-354b-4a5a-b2da-511318c87b9a)
+![Screenshot (405)](https://github.com/VishwaJarsaniya/Explorely_blogweb/assets/143692465/226e7713-e0fd-49af-85f1-28b48a01e05a)
+![Screenshot (406)](https://github.com/VishwaJarsaniya/Explorely_blogweb/assets/143692465/6ab10de4-c413-45b0-b967-8aa62ae263b8)

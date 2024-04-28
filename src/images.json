@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "src": "./pics/pic9.png",
+      "alt": "Image 1",
+      "desc": "How to Build a Supportive Network for a Fulfilling Life"
+    },
+  
+    {
+        "id": 2,
+        "src": "./pics/pic10.png",
+        "alt": "Image 2",
+        "desc": "The 101 Guide of Getting the More Out of Your Finances"
+      },
+      {
+        "id": 3,
+        "src": "./pics/pic11.png",
+        "alt": "Image 3",
+        "desc": "Volunterring: How Giving Back can Enrich your Life"
+      },
+      {
+        "id": 4,
+        "src": "./pics/pic12.png",
+        "alt": "Image 4",
+        "desc": "10 Simple Daily Habits to Improve your Life"
+      }
+  ]
+  
